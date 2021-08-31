@@ -1,0 +1,70 @@
+html, body{
+  margin: 0;
+  padding: 0;
+  background: url("fondos/fondo.jpg");
+  width: 100%;
+  height: 100%;
+  font-family: "Verdana";
+  letter-spacing: 0.03em;
+  line-height: 1.6;
+  background-size: 100%;
+  background-repeat: n;
+}
+h1{
+  font-size: 25px;
+}
+input.text, select.text, textarea.text {
+   background: #C70039  ;
+   border: 3px solid #4c4c4c ;
+   border-radius: 5px 5px 5px 5px;
+   color: #ffffff ;
+   font-size: 18px;
+   font-style: oblique;
+   padding: 5px;
+}
+header{
+  height:50px;
+  background-color:#014898 ;
+  font-size: 40px;
+  color: #FFFFFF;
+  font-weight: 100;
+  padding-bottom: 23px;
+  padding-top: 15PX;  
+  text-align: center;
+}
+
+
+input.boton {
+   background: #D6A70D ;
+   border: 3px solid #4C4C4C ;
+   border-radius: 8px 8px 8px 8px;
+   color: #393939;
+   font-size: 20px;
+   padding: 12px;
+   color: #FFFFFF;
+}
+.boton1{
+   background: #FF5733  ;
+   border: 3px solid #4C4C4C ;
+   border-radius: 8px 8px 8px 8px;
+   color: #393939;
+   font-size: 20px;
+   padding: 12px;
+   color: #ffffff;
+}
+.tarjeta, form{
+  box-shadow: 0 2px 2px rgba(0,0,0,0.2);
+  overflow: hidden;
+  margin: 20px;
+  text-align: center;
+  transition: all 0.25s;
+  color: #ffffff;
+  font-size: 16px;
+}
+.title{
+  text-align: center;
+  font-size: 40px;
+  color: #6a6a6a;
+  margin-top: 100px;
+  font-weight: 100; 
+}
